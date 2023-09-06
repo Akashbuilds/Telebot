@@ -1,2 +1,2 @@
 # Telebot
-A simple Telegram bot
+A simple Telegram bot made using telegraph.js
