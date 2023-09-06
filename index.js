@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 const axios = require("axios");
 
-const bot = new Telegraf('6634365256:AAHp4nImxLpgoo_pSIi3wSqJ2hY8g_n5Cg4');
+const bot = new Telegraf('SECRET_KEY');
 
 let binarysearch = `function binarySearch(sortedArray, key){
     let start = 0;
